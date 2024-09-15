@@ -1,1 +1,5 @@
-# belajar-kolaborasi
+# belajar-kolaborasi  
+
+commit pertama  
+commit kedua  
+commit ketiga  
